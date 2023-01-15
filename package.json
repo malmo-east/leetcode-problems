@@ -1,0 +1,8 @@
+{
+  "name": "leetcode-problems",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vitalie <v.procopiuc@infin-it.kz>",
+  "license": "MIT",
+  "private": false
+}
